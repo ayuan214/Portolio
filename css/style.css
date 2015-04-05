@@ -1,7 +1,13 @@
 body {
 	font-family: 'Lato', sans-serif;
-	color: #747704;
+	background-color: black;
+	color: white;
 	font-weight: 300;
+}
+
+hr {
+	border-width: 5px;
+	border-color: white;
 }
 
 .text-muted {
@@ -17,5 +23,9 @@ body {
 }
 
 .title-logo {
-	margin-top: 20px;
+	margin-top: 30px;
+}
+
+.fw-top {
+	margin-top: 50px; 
 }
