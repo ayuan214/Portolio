@@ -35,3 +35,14 @@ hr {
     width: 70%;
     margin: auto;
 }
+
+.box {
+	float: right;
+	text-align: left;
+	background-color: white;
+	color: black;
+    padding-left: 10px;
+	width: 40%;
+	height: 50%;
+	border-style: solid;
+}
